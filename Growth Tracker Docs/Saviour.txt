@@ -1,1 +1,0 @@
-sqlplus -s -l SYSTEM/iAmIronMan@DESKTOP-05556ET @zvspercentile.sql
