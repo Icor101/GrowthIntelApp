@@ -32,7 +32,7 @@ The '**Vaccine Tracker**' tab allows the paediatrician to update the database an
 <BR clear = "LEFT">
   
 # How to use
-- Download and install Oracle Database 11g 32-bit
-- Replace \<PASSWORD\> with your database password everywhere in the code and in the init.bat script which is present inside the 'SQL Scripts' folder
-- Run init.bat to create and populate tables, stored procedures and triggers required by the app
+- Download and install Oracle Database 11g 32-bit.
+- Replace \<PASSWORD\> with your database password everywhere in the code and in the init.bat script which is present inside the 'SQL Scripts' folder.
+- Run init.bat to create and populate tables, stored procedures and triggers required by the app.
 - Run GrowthIntelApp.sln
