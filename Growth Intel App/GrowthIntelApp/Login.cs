@@ -37,7 +37,7 @@ namespace WindowsFormsApp4
 
         public void DB_connect()
         {
-            String oradb = "Data Source=XE;User ID=SYSTEM;Password=iAmIronMan";
+            String oradb = "Data Source=XE;User ID=SYSTEM;Password=<PASSWORD>";
             conn = new OracleConnection(oradb);
             conn.Open();
         }
